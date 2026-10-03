@@ -11,7 +11,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("🧮 Scientific Calculator")
+st.title("Scientific Calculator")
 
 
 # -----------------------------
